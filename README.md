@@ -208,9 +208,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 ## Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu LinkedIn](https://linkedin.com/in/tu-perfil)
-- Email: tu.email@example.com
+- GitHub: [@tu-usuario](https://github.com/Jobyta-avila)
+- LinkedIn: [Tu LinkedIn](https://linkedin.com/in/mireya-ávila-velásquez-637504138)
+- Email: mireyajobita@gmail.com
 
 ## Agradecimientos
 
