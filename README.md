@@ -1,4 +1,4 @@
-# 🔌 Calculadora de Diseño de Circuitos Electrónicos
+# Calculadora de Diseño de Circuitos Electrónicos
 
 Una aplicación web moderna y completa para automatizar cálculos comunes en el diseño de circuitos electrónicos, desarrollada con React y TypeScript.
 
@@ -30,7 +30,7 @@ Una aplicación web moderna y completa para automatizar cálculos comunes en el 
 - Algoritmo para encontrar valores comerciales más cercanos
 - Información detallada sobre tolerancias
 
-## 📸 Capturas de Pantalla
+## Capturas de Pantalla
 
 <details>
 <summary>Ver capturas</summary>
@@ -46,7 +46,7 @@ Una aplicación web moderna y completa para automatizar cálculos comunes en el 
 
 </details>
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Frontend**: React 18 + TypeScript
 - **Build Tool**: Vite
@@ -109,12 +109,14 @@ circuit-calculator/
 ├── tailwind.config.js
 ├── index.html
 ├── src/
+│   ├── components/       # Componentes
+│   └── ... 
 │   ├── App.tsx           # Componente principal
 │   ├── main.tsx          # Punto de entrada
 │   ├── index.css         # Estilos globales
 │   └── vite-env.d.ts     # Definiciones de tipos
-├── 📁 public/               # Archivos estáticos
-└── 📁 dist/                 # Build de producción
+├── public/               # Archivos estáticos
+└── dist/                 # Build de producción
 ```
 
 ## Fórmulas Implementadas
