@@ -2,8 +2,6 @@
 
 Una aplicación web moderna y completa para automatizar cálculos comunes en el diseño de circuitos electrónicos, desarrollada con React y TypeScript.
 
-![Circuit Calculator Preview](https://via.placeholder.com/800x400/2563eb/ffffff?text=Circuit+Calculator+Preview)
-
 ## Características Principales
 
 ### Ley de Ohm
@@ -29,20 +27,6 @@ Una aplicación web moderna y completa para automatizar cálculos comunes en el 
 - Series E12 (±10%) y E24 (±5%) completas
 - Algoritmo para encontrar valores comerciales más cercanos
 - Información detallada sobre tolerancias
-
-## Capturas de Pantalla
-
-<details>
-<summary>Ver capturas</summary>
-
-### Ley de Ohm
-![Ohm's Law Calculator](https://via.placeholder.com/600x400/f3f4f6/374151?text=Ohm's+Law+Calculator)
-
-### Divisor de Voltaje
-![Voltage Divider](https://via.placeholder.com/600x400/f3f4f6/374151?text=Voltage+Divider+Calculator)
-
-### Filtros RC
-![RC Filters](https://via.placeholder.com/600x400/f3f4f6/374151?text=RC+Filter+with+Graph)
 
 </details>
 
@@ -202,10 +186,6 @@ Si encuentras algún bug o tienes sugerencias:
    - Pasos para reproducirlo
    - Capturas de pantalla (si aplica)
    - Información del navegador
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Autor
 
