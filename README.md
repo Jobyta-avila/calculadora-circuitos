@@ -1,6 +1,6 @@
 # Calculadora de Diseño de Circuitos Electrónicos
 
-Una aplicación web moderna y completa para automatizar cálculos comunes en el diseño de circuitos electrónicos, desarrollada con React y TypeScript.
+Este repositorio conlleva el desarrollo de una aplicación web moderna y completa para automatizar cálculos comunes en el diseño de circuitos electrónicos, desarrollada con React y TypeScript.
 
 ## Características Principales
 
